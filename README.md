@@ -6,7 +6,7 @@ jogador pode escolher entre as três opções, competir contra a máquina e acom
 pontuação até que um dos lados atinja 5 pontos.
 
 <figuri>
-<img src=Img /> 
+<img src=/> 
 <figuri/>
 
 ##  HTML (index.html)
