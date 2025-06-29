@@ -6,7 +6,7 @@ jogador pode escolher entre as três opções, competir contra a máquina e acom
 pontuação até que um dos lados atinja 5 pontos.
 
 <figuri>
-<img src=/> 
+<img src=https://github.com/MarceloNaja79/Projeto-Jogo-JokenPo/blob/903f8c6c574344f27264de67d34a9c54098c7ca6/Img%20projeto%20JOKENPo.PNG/> 
 <figuri/>
 
 ##  HTML (index.html)
