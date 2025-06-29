@@ -1,8 +1,10 @@
-# Projeto Dragon ball Z
+# Jogo PokenPo
 
-### Como parte de um desafio da comunidade DevQuest - Dev em Dobro, desenvolvi uma recriação inspirada nos personagens de Dragon Ball Z.
- Usando HTML, CSS e JavaScript, o projeto dá vida a um universo paralelo onde tecnologia e nostalgia se encontram. Cenários futuristas e personagens icônicos foram reimaginados em uma atmosfera interativa, proporcionando uma experiência envolvente para os fãs e entusiastas da programação.
+###  Este projeto consiste em um jogo simples de Jokenpô (Pedra, Papel e Tesoura) desenvolvido
+ utilizando HTML, CSS e JavaScript. O objetivo foi criar uma aplicação interativa onde o 
+jogador pode escolher entre as três opções, competir contra a máquina e acompanhar a 
+pontuação até que um dos lados atinja 5 pontos.
 
 <figuri>
-<img src=/> 
+<img src=Img projeto JOKENPo.PNG/> 
 <figuri/>
