@@ -106,4 +106,4 @@ têm addEventListener jogar() com a escolha correspondente quando clicados.
  ## Este projeto demonstra a integração de HTML para estrutura, CSS para estilo e JavaScript
  
 ### Para interatividade e lógica de jogo, resultando em uma aplicação web funcional e 
-divertida
+divertida. https://marcelonaja79.github.io/Projeto-Jogo-JokenPo/
