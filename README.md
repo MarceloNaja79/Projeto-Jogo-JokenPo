@@ -108,4 +108,6 @@ têm addEventListener jogar() com a escolha correspondente quando clicados.
 ### Para interatividade e lógica de jogo, resultando em uma aplicação web funcional e 
 divertida. <h3>Fique avontade para Navegar neste meu Projeto. <a href="https://marcelonaja79.github.io/Projeto-Jogo-JokenPo/" target="_blank"/>Ir para o Site</h3>
 
+Meus Contatos:👇👇
 
+E-mail: marcelonaja41@gmail.com ✉️ LinkedIn: www.linkedin.com/in/ marcelo-dos-santos-moreira 🔗 Telefone: +551299255-2089 📞
